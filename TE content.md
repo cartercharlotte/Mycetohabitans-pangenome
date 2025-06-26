@@ -1,4 +1,4 @@
-#TE percent finding
+# TE percent finding
 We used ISEScan to predict the % of genome masked by TEs. Since we use the UNC Charlotte HPC, we arrayed through the genome files to run the tool.
 ```
 #!/bin/bash
