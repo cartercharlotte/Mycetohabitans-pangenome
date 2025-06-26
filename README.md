@@ -1,2 +1,16 @@
-# Mycetohabitans-pangenome
-Scripts and computational logs related to our study on the pangenome of the genus Mycetohabitans, submitted as a manuscript to bioRxiv.
+# Scripts and data used in Abbot et al., 2025
+This repository contains the scripts that were used in the following analyses:
+-   Phylogeny creation and average nucleotide identity
+-   _Mycetohabitans_ whole genome pangenome, and chromosome, chromid, and plasmid comparisons
+-   Heap’s Law analyses
+-   Synteny analyses
+-  TE and pseudogene correlation
+-   dN/dS analyses
+-   Phage presence
+
+Upon adapting any script from this repository, please cite:
+
+```
+Abbot B, Field S, Carneal L, White RA, Buchan A, West C, Lee L, Carter ME. 2025. Comparative genomics reveals multipartite genomes undergoing loss in the fungal endosymbiotic genus *Mycetohabitans*. bioRxiv.2025.2006.2012.659383
+doi: https://doi.org/10.1101/2025.06.12.659383
+```
